@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>V:/Desktop/CrossPlatformDesktopProject/MyFirstGame/Content/../../../Mario.jpg</File>
+    <File>V:/Desktop/CrossPlatformDesktopProject/MyFirstGame/Content/author.spritefont</File>
+    <File>V:/Desktop/CrossPlatformDesktopProject/MyFirstGame/Content/credit.spritefont</File>
+    <File>V:/Desktop/CrossPlatformDesktopProject/MyFirstGame/Content/url.spritefont</File>
+  </SourceFiles>
+  <DestFiles>
+    <File>Mario.jpg</File>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

@@ -1,0 +1,5 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"V:/Desktop/CrossPlatformDesktopProject/MyFirstGame/Content/../../../Mario.jpg","V:/Desktop/CrossPlatformDesktopProject/MyFirstGame/Content/bin/DesktopGL/Content/Mario.xnb","TextureProcessor","Texture2DContent",17249,106933,0.2769993
+"V:/Desktop/CrossPlatformDesktopProject/MyFirstGame/Content/author.spritefont","V:/Desktop/CrossPlatformDesktopProject/MyFirstGame/Content/bin/DesktopGL/Content/author.xnb","FontDescriptionProcessor","SpriteFontContent",2008,21521,0.249955
+"V:/Desktop/CrossPlatformDesktopProject/MyFirstGame/Content/credit.spritefont","V:/Desktop/CrossPlatformDesktopProject/MyFirstGame/Content/bin/DesktopGL/Content/credit.xnb","FontDescriptionProcessor","SpriteFontContent",2008,21521,0.027
+"V:/Desktop/CrossPlatformDesktopProject/MyFirstGame/Content/url.spritefont","V:/Desktop/CrossPlatformDesktopProject/MyFirstGame/Content/bin/DesktopGL/Content/url.xnb","FontDescriptionProcessor","SpriteFontContent",2008,21521,0.018985
