@@ -5,9 +5,7 @@ using System.Collections.Generic;
 
 namespace MyFirstGame
 {
-    /// <summary>
-    /// This is the main type for your game.
-    /// </summary>
+
     public class Game1 : Game
     {
         GraphicsDeviceManager graphics;
@@ -24,12 +22,6 @@ namespace MyFirstGame
         public Texture2D Texture { get; set; }
         public Vector2 Location { get; set; }
 
-
-     
-
-       
-
-
         public Game1()
         {
             graphics = new GraphicsDeviceManager(this);
@@ -38,10 +30,8 @@ namespace MyFirstGame
             Content.RootDirectory = "Content";
         }
 
-
         protected override void Initialize()
         {
-            // TODO: Add your initialization logic here
             controllerList = new List<object>();
             controllerList.Add(new KbController (this));
             controllerList.Add(new MsController (this));
@@ -52,10 +42,6 @@ namespace MyFirstGame
             base.Initialize();
         }
 
-        /// <summary>
-        /// LoadContent will be called once per game and is the place to load
-        /// all of your content.
-        /// </summary>
         protected override void LoadContent()
         {
             // Create a new SpriteBatch, which can be used to draw textures.
@@ -76,10 +62,6 @@ namespace MyFirstGame
 
         }
 
-        /// <summary>
-        /// UnloadContent will be called once per game and is the place to unload
-        /// game-specific content.
-        /// </summary>
         protected override void UnloadContent()
         {
         }
