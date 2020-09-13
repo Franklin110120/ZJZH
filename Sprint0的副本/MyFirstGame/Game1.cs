@@ -51,13 +51,10 @@ namespace MyFirstGame
             credit = Content.Load<SpriteFont>("credit");
             author = Content.Load<SpriteFont>("author");
             url = Content.Load<SpriteFont>("url");
-
             textSpriteList = new List<object>();
             textSpriteList.Add(new TextDrawSprite1(credit));
             textSpriteList.Add(new TextDrawSprite2(author));
             textSpriteList.Add(new TextDrawSprite3(url));
-
-            
             this.Sprite = new NMNASprite  (this.Texture  );
 
         }
