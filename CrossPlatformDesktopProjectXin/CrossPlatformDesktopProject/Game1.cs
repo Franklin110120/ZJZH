@@ -16,6 +16,7 @@ namespace CrossPlatformDesktopProject
         {
             graphics = new GraphicsDeviceManager(this);
             Content.RootDirectory = "Content";
+            int x=6;
         }
 
         /// <summary>
