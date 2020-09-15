@@ -139,7 +139,6 @@ namespace Mario
             this.sprite.Draw(spriteBatch);
 
 
-
             this.credit.Draw(spriteBatch);
 
 
