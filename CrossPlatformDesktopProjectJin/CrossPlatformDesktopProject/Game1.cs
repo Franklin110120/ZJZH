@@ -21,10 +21,6 @@ namespace Mario
         public Texture2D standing { get; set; }
         public SpriteFont creditFont;
       
-
-        
-        
-
         
 
         GraphicsDeviceManager graphics;
